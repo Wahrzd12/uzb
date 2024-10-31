@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    color: darkslategray;
+}
+header{
+    font-size: 25px;
+    margin-left: 45px;
+    display: flex;
+    flex-direction: column-reverse;
+   gap: 25px;
+}
+.head_info{
+    display: flex;
+    flex-direction: column;
+}
+.text{
+   padding-top: 15px;
+}
+button{
+    margin-right: 10px;
+    font-size: 15px;
+    color: black;
+}
